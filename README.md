@@ -1,6 +1,6 @@
 # filtering-test
 
-![]()
+![](https://github.com/yueran-z/vuejs-filtering-stream/blob/master/vue-filter-searching-text.gif?raw=true)
 
 ## Project setup
 
